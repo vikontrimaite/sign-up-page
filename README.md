@@ -6,8 +6,9 @@
 # Sign up
 ### 20 group website project
 
-* Site published [here](https://vikontrimaite.github.io/sign-up-page/)
-* Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
+Site published [here](https://vikontrimaite.github.io/sign-up-page/)
+
+Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 
 ## Project features
 - css components
